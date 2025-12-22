@@ -1,4 +1,12 @@
-## 👋 Hello World, I'm Kazi Sadman
+<h2 style="color: orange;">
+  <blink>👋 Hello World, I'm Kazi Sadman</blink>
+</h2>
+
+<p>
+📧 <b>Email:</b> <a href="mailto:kazisadman897@gmail.com">kazisadman897@gmail.com</a> <br>
+💼 <b>LinkedIn:</b> <a href="https://linkedin.com">linkedin.com</a>
+</p>
+
 
 ✨ Building logic-driven software with a passion for problem solving  
 🚀 Competitive Programmer | Software Developer | AI Enthusiast
@@ -14,11 +22,15 @@
 ---
 
 ## 🏆 Competitive Programming
+## 🏆 Competitive Programming
 - 🟦 **Codeforces**: Pupil  
   🔗 https://codeforces.com/profile/SadmanOverFlow
 - 🟨 **CodeChef**: ⭐⭐ 2-Star Coder  
   🔗 https://www.codechef.com/dashboard
+- 🟧 **LeetCode**  
+  🔗 https://leetcode.com/u/Kazi-Sadman_1/
 - 🧩 Regularly practice **DSA**
+
 
 ---
 
