@@ -1,6 +1,6 @@
-<h2 style="color: orange;">
-  <blink>👋 Hello World, I'm Kazi Sadman</blink>
-</h2>
+![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+## 👋 Hello World, I'm Kazi Sadman
+
 
 <p>
 📧 <b>Email:</b> <a href="mailto:kazisadman897@gmail.com">kazisadman897@gmail.com</a> <br>
@@ -78,14 +78,11 @@
 ---
 
 ## 📊 GitHub Stats
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazi-sadman&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazi-sadman&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
----
 
 
 ---
