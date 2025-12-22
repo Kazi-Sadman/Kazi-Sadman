@@ -1,7 +1,24 @@
+<div align="center">
 
+<span style="display: inline-block; animation: blink 2s infinite;">
 ![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+</span>
 
-## 👋 <span id="blinking-hello">Hello World</span>, I'm Kazi Sadman
+<br>
+
+<span style="font-size: 24px; font-weight: bold; animation: blink 1.5s infinite; color: #ff8c00;">
+👋 Hello World, I'm Kazi Sadman
+</span>
+
+</div>
+
+<style>
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+  }
+</style>
 
 <div align="center">
 
@@ -107,7 +124,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
   - C++ SFML Space Shooter  
 
-  - Raylib Conway’s Game of Life (GUI)
+  - Raylib Conway's Game of Life (GUI)
 
 - ⚙️ **Backend Projects** using Django
 
@@ -139,7 +156,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:kazisadman897@gmail.com)
 
@@ -172,4 +189,4 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 
 
-🔥 *“Consistency beats talent when talent doesn’t practice.”*
+🔥 *"Consistency beats talent when talent doesn't practice."*
