@@ -22,14 +22,8 @@
 ---
 
 ## 🏆 Competitive Programming
-## 🏆 Competitive Programming
-- 🟦 **Codeforces**: Pupil  
-  🔗 https://codeforces.com/profile/SadmanOverFlow
-- 🟨 **CodeChef**: ⭐⭐ 2-Star Coder  
-  🔗 https://www.codechef.com/dashboard
-- 🟧 **LeetCode**  
-  🔗 https://leetcode.com/u/Kazi-Sadman_1/
-- 🧩 Regularly practice **DSA**
+
+- 🧩 Regularly practice **DSA** and Learn different topis of problem solving 
 
 
 ---
