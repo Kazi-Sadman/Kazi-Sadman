@@ -1,26 +1,12 @@
 <div align="center">
 
-<span style="display: inline-block; animation: blink 2s infinite;">
 ![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-</span>
 
 <br>
 
-<span style="font-size: 24px; font-weight: bold; animation: blink 1.5s infinite; color: #ff8c00;">
-👋 Hello World, I'm Kazi Sadman
-</span>
+**👋 Hello World, I'm Kazi Sadman**
 
 </div>
-
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0.3; }
-    100% { opacity: 1; }
-  }
-</style>
-
-<div align="center">
 
 ## 🧑‍💻 About Me
 
