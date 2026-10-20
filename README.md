@@ -15,12 +15,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
 </a>
 <a href="mailto:kazisadman897@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contact me by email"
+  />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kazi-Sadman&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Kazi-Sadman&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS"
+  alt="GitHub profile views"
+/>
 
 </div>
 
@@ -313,17 +319,10 @@ My research interests include:
 
 <!-- GitHub Streak -->
 
-## 🔥 GitHub Contribution Streak
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=Kazi-Sadman&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
 
 ---
 
@@ -340,9 +339,11 @@ My research interests include:
 </a>
 
 <a href="mailto:kazisadman897@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kazisadman897%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-kazisadman897%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email: kazisadman897@gmail.com"
+  />
 </a>
-
 <br/><br/>
 
 **Open to learning, research collaboration, and opportunities in Machine Learning and Backend Engineering.**
