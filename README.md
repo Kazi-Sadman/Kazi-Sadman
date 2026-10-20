@@ -1,7 +1,13 @@
 <!-- ====================================================== -->
 <!-- KAZI SADMAN ZAHIN | GITHUB PROFILE README              -->
 <!-- ====================================================== -->
-
+<div align="center">
+  <img
+    src="./assets/header-space.svg"
+    width="100%"
+    alt="Kazi Sadman Zahin"
+  />
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:0EA5E9&text=Kazi%20Sadman%20Zahin&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=Machine%20Learning%20Engineer%20%7C%20Backend%20Developer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Kazi Sadman Zahin GitHub profile header" />
@@ -32,7 +38,13 @@
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  <img
+    src="./assets/title-about.svg"
+    width="100%"
+    alt="About Me"
+  />
+</div>
 
 I am a Computer Science and Engineering undergraduate at **American International University-Bangladesh (AIUB)**, interested in building practical machine learning applications, AI-powered systems, and reliable backend services.
 
@@ -48,7 +60,13 @@ I am a Computer Science and Engineering undergraduate at **American Internationa
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img
+    src="./assets/title-stack.svg"
+    width="100%"
+    alt="Tech Stack"
+  />
+</div>
 
 ### Programming Languages
 
@@ -91,7 +109,13 @@ I am a Computer Science and Engineering undergraduate at **American Internationa
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+  <img
+    src="./assets/title-projects.svg"
+    width="100%"
+    alt="Featured Projects"
+  />
+</div>
 
 ### 1. AIUB UniAssist
 
@@ -221,7 +245,13 @@ A web-based hospital management system supporting appointment workflows and sepa
 
 ---
 
-## 🔬 Research & Publications
+<div align="center">
+  <img
+    src="./assets/title-research.svg"
+    width="100%"
+    alt="Research & Publications"
+  />
+</div>
 
 ### 1. Drug Solubility Classification
 
@@ -255,8 +285,13 @@ My research interests include:
 
 ---
 
-## 🏆 Competitive Programming
-
+<div align="center">
+  <img
+    src="./assets/title-cp.svg"
+    width="100%"
+    alt="Competitive Programming"
+  />
+</div>
 <div align="center">
 
 | Platform        | Achievement                                      |
@@ -283,8 +318,13 @@ My research interests include:
 
 <!-- GitHub Statistics -->
 
-## 📊 GitHub Statistics
-
+<div align="center">
+  <img
+    src="./assets/title-stats.svg"
+    width="100%"
+    alt="GitHub Statistics"
+  />
+</div>
 <div align="center">
 
 <img
@@ -348,7 +388,13 @@ My research interests include:
 
 ## </div>
 
-## 📫 Connect With Me
+<div align="center">
+  <img
+    src="./assets/title-connect.svg"
+    width="100%"
+    alt="Connect With Me"
+  />
+</div>
 
 <div align="center">
 
@@ -375,7 +421,10 @@ My research interests include:
 ---
 
 <div align="center">
-
-_“Build with curiosity. Validate with evidence. Improve with every iteration.”_
-
+  <p><i>Build with curiosity. Validate with evidence. Improve with every iteration.</i></p>
+  <img
+    src="./assets/footer-space.svg"
+    width="100%"
+    alt="Footer"
+  />
 </div>
