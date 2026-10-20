@@ -1,14 +1,6 @@
 <!-- ====================================================== -->
 <!-- KAZI SADMAN ZAHIN | GITHUB PROFILE README              -->
 <!-- ====================================================== -->
-<div align="center">
-  <img
-    src="./assets/header-space.svg"
-    width="100%"
-    alt="Kazi Sadman Zahin"
-  />
-</div>
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:0EA5E9&text=Kazi%20Sadman%20Zahin&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=Machine%20Learning%20Engineer%20%7C%20Backend%20Developer&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Kazi Sadman Zahin GitHub profile header" />
 
