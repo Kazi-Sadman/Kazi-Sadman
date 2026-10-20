@@ -38,12 +38,9 @@
 
 ---
 
+<!-- About Me -->
 <div align="center">
-  <img
-    src="./assets/title-about.svg"
-    width="100%"
-    alt="About Me"
-  />
+  <img src="./assets/title-about.svg" width="100%" alt="About Me" />
 </div>
 
 I am a Computer Science and Engineering undergraduate at **American International University-Bangladesh (AIUB)**, interested in building practical machine learning applications, AI-powered systems, and reliable backend services.
@@ -60,12 +57,9 @@ I am a Computer Science and Engineering undergraduate at **American Internationa
 
 ---
 
+<!-- Tech Stack -->
 <div align="center">
-  <img
-    src="./assets/title-stack.svg"
-    width="100%"
-    alt="Tech Stack"
-  />
+  <img src="./assets/title-stack.svg" width="100%" alt="Tech Stack" />
 </div>
 
 ### Programming Languages
@@ -109,12 +103,9 @@ I am a Computer Science and Engineering undergraduate at **American Internationa
 
 ---
 
+<!-- Featured Projects -->
 <div align="center">
-  <img
-    src="./assets/title-projects.svg"
-    width="100%"
-    alt="Featured Projects"
-  />
+  <img src="./assets/title-projects.svg" width="100%" alt="Featured Projects" />
 </div>
 
 ### 1. AIUB UniAssist
@@ -271,7 +262,14 @@ Research focus: Ensemble machine learning, text classification, precision, false
 
 ---
 
-## 🎓 Current Research Interest
+<!-- Current Research Interest -->
+<div align="center">
+  <img
+    src="./assets/title-research-interest.svg"
+    width="100%"
+    alt="Current Research Interest"
+  />
+</div>
 
 **An Explainable Language-Aware Cross-Lingual Framework for Bangla-English Fake News Detection Using Multilingual Transformers and Classical Machine Learning**
 
@@ -317,15 +315,9 @@ My research interests include:
 ---
 
 <!-- GitHub Statistics -->
-
 <div align="center">
-  <img
-    src="./assets/title-stats.svg"
-    width="100%"
-    alt="GitHub Statistics"
-  />
+  <img src="./assets/title-stats.svg" width="100%" alt="GitHub Statistics" />
 </div>
-<div align="center">
 
 <img
     src="https://github-readme-stats-eight-gamma-27.vercel.app/api?username=Kazi-Sadman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12&include_all_commits=true"
@@ -345,7 +337,14 @@ My research interests include:
 
 <br/>
 
-## 📈 GitHub Contribution Activity
+<!-- GitHub Contribution Activity -->
+<div align="center">
+  <img
+    src="./assets/title-activity.svg"
+    width="100%"
+    alt="GitHub Contribution Activity"
+  />
+</div>
 
 <div align="center">
 
@@ -374,10 +373,14 @@ My research interests include:
 
 ---
 
-<!-- GitHub Streak -->
-
-## 🔥 GitHub Contribution Streak
-
+<!-- GitHub Contribution Streak -->
+<div align="center">
+  <img
+    src="./assets/title-streak.svg"
+    width="100%"
+    alt="GitHub Contribution Streak"
+  />
+</div>
 <div align="center">
 
 <img
@@ -388,13 +391,10 @@ My research interests include:
 
 ## </div>
 
+<!-- Connect With Me -->
 <div align="center">
-  <img
-    src="./assets/title-connect.svg"
-    width="100%"
-    alt="Connect With Me"
-  />
-</div>
+  <img src="./assets/title-connect.svg" width="100%" alt="Connect With Me" />
+</div
 
 <div align="center">
 
