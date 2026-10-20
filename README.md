@@ -307,11 +307,13 @@ My research interests include:
 
 <div align="center">
 
-<img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kazi-Sadman&theme=tokyo-night&hide_border=true&area=true&custom_title=Kazi%20Sadman%20Zahin%20-%20Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/Kazi-Sadman">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Kazi-Sadman&theme=tokyo-night&hide_border=true&area=true"
+      alt="Kazi Sadman Zahin's GitHub Contribution Activity"
+      width="95%"
+    />
+  </a>
 
 </div>
 
