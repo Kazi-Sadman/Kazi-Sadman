@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="56" viewBox="0 0 360 56">
+  <rect x="1" y="1" width="358" height="54" rx="12" fill="#0F172A" stroke="#164E63"/>
+  <rect x="1" y="1" width="5" height="54" rx="2" fill="#38BDF8"/>
+  <circle cx="28" cy="28" r="10" fill="#164E63"/>
+  <path d="M23 28l4 4 7-8" fill="none" stroke="#7DD3FC" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50" y="35" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">ABOUT ME</text>
+  <path d="M185 28H330" stroke="#38BDF8" stroke-opacity=".45"/>
+</svg>

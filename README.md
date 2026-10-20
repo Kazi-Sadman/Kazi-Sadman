@@ -1,105 +1,127 @@
-<div align="center">
+## 🚀 Featured Projects
 
-![Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+### 1. AIUB UniAssist
 
-<br>
+**Hybrid RAG-Powered University Information and Course Management System**
 
-**👋 Hello World, I'm Kazi Sadman**
+<p align="center">
+  <a href="https://aiub-uni-assist.vercel.app/">
+    <img src="assets/projects/aiub-uniassist.png" width="100%" alt="AIUB UniAssist project demo preview"/>
+  </a>
+</p>
 
-</div>
+An AI-powered university information system combining hybrid retrieval with database-backed academic management.
 
-## 🧑‍💻 About Me
+**Key Features**
 
-I'm a passionate developer who loves creating innovative solutions and exploring new technologies.
+- REST APIs for department, student, course, and enrollment management.
+- Hybrid retrieval using BGE-M3 embeddings and BM25.
+- Reciprocal Rank Fusion (RRF) for combining retrieval results.
+- Qdrant vector search and an AIUB-specific knowledge base.
+- LLM integration using LangChain and OpenRouter.
 
-✨ Building logic-driven software with a passion for problem solving  
-🚀 Competitive Programmer | Software Developer | AI Enthusiast
+**Tech Stack**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
----
-
-## 🧑‍💻 Who Am I?
-
-- 🎓 3rd year **BSc in Computer Science & Engineering**  
-- 💡 Strong interest in **Software Development & Artificial Intelligence**  
-- 🧠 Love solving complex problems & understanding systems deeply  
-- ⚔️ Active **Competitive Programmer**  
-
----
-
-## 🏆 Competitive Programming
-
-- 🧩 Regularly practice **DSA** and explore different problem-solving topics  
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-
-### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+**Links:** [🌐 Live Demo](https://aiub-uni-assist.vercel.app/) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/AIUB-UniAssist-A-Hybrid-RAG-Powered-University-Information-and-Course-Management-System)
 
 ---
 
-## 🚀 Projects Spotlight
+### 2. SMS Spam Classifier
 
-- 🧠 **ML / AI Projects** – learning & experimentation  
-- 🏨 **Hostel Management System** – C# + MS SQL  
-- 🎮 **Game Development**  
-  - C++ SFML Space Shooter  
-  - Raylib Conway's Game of Life (GUI)  
-- ⚙️ **Backend Projects** using Django  
-- 📘 **DSA Repository** – topic-wise problem solving  
+**Machine Learning-Based SMS Classification**
 
----
+<p align="center">
+  <a href="https://smsspamclassifier-2ozcpwt4scvdrtrnvdytug.streamlit.app/">
+    <img src="assets/projects/sms-spam-classifier.png" width="100%" alt="SMS Spam Classifier project demo preview"/>
+  </a>
+</p>
 
-## 📈 Current Focus
+An interactive application that classifies SMS messages as spam or legitimate messages using machine learning and natural language processing.
 
-- 🔍 Improving **Problem Solving & Algorithms**  
-- 🧠 Learning **Machine Learning fundamentals**  
-- 🛠️ Writing clean, scalable **backend software**  
-- 🌱 Preparing for **Software / AI Engineer roles**  
+**Key Features**
 
----
+- Text preprocessing and TF-IDF feature extraction.
+- Comparison of machine learning and ensemble approaches.
+- Single-message prediction and batch CSV classification.
+- Model evaluation and cross-dataset validation.
 
-## ✨ Fun Facts
+**Tech Stack**
 
-- 🧩 **Problem Solver:** I treat every bug like a puzzle waiting to be solved.  
-- 🕵️ **Digital Archeologist:** Love exploring legacy code.  
-- ☕ **Logic Fuel:** Turn coffee into clean, scalable backend logic.  
-- 🤝 **Knowledge Sharer:** I believe teaching is the best way to learn.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-NLP-0F766E?style=flat-square)
 
----
-
-## 🤝 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazisadman897@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadman-zahin-2777143bb)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Kazi-Sadman_1/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/__sadman)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/kazisadman)  
+**Links:** [🌐 Live Demo](https://smsspamclassifier-2ozcpwt4scvdrtrnvdytug.streamlit.app/) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/sms_spam_classifier)
 
 ---
 
-## 📊 GitHub Stats
+### 3. Movie Recommendation System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
+**Content-Based Movie Recommendation**
+
+<p align="center">
+  <a href="https://movie-recommendation-app-sfxg.onrender.com/">
+    <img src="assets/projects/movie-recommendation.png" width="100%" alt="Movie Recommendation System project demo preview"/>
+  </a>
+</p>
+
+A movie recommendation application that uses textual features and similarity scoring to recommend related movies.
+
+**Key Features**
+
+- TF-IDF feature extraction.
+- Cosine similarity-based recommendation ranking.
+- TMDB API integration.
+- FastAPI backend with a deployed application interface.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
+
+**Links:** [🌐 Live Demo](https://movie-recommendation-app-sfxg.onrender.com/) · [📘 API Documentation](https://movie-recommendation-api-7910.onrender.com/docs) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/Movie-Recommendation-System)
 
 ---
 
-🔥 *"Consistency beats talent when talent doesn't practice."*
+### 4. Hospital Appointment Booking System
+
+**Web-Based Hospital Management**
+
+<p align="center">
+  <a href="https://hospitalmanagementsadman.infy.click">
+    <img src="assets/projects/hospital-appointment.png" width="100%" alt="Hospital Appointment Booking System project demo preview"/>
+  </a>
+</p>
+
+A web-based hospital management system supporting appointment workflows and separate patient, doctor, and administrator roles.
+
+**Key Features**
+
+- Patient, doctor, and administrator modules.
+- Authentication and role-based access control.
+- Appointment management and AJAX-based interactions.
+- Password hashing, prepared statements, and input validation.
+
+**Tech Stack**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-2563EB?style=flat-square)
+
+**Links:** [🌐 Live Demo](https://hospitalmanagementsadman.infy.click) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/HospitalAppointmentSystem)

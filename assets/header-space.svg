@@ -1,0 +1,37 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#102A43"/>
+      <stop offset="100%" stop-color="#164E63"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#7DD3FC" stroke-opacity=".10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="18" fill="url(#grid)"/>
+  <g fill="none" stroke="#38BDF8" stroke-opacity=".35">
+    <path d="M0 160L160 105L260 150L390 70L490 120"/>
+    <path d="M760 160L870 90L980 125L1090 55L1200 95"/>
+    <path d="M810 0L860 45L940 25L1020 75L1110 20L1200 55"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="160" cy="105" r="3"/>
+    <circle cx="260" cy="150" r="3"/>
+    <circle cx="390" cy="70" r="3"/>
+    <circle cx="870" cy="90" r="3"/>
+    <circle cx="980" cy="125" r="3"/>
+    <circle cx="1090" cy="55" r="3"/>
+  </g>
+  <path d="M100 190H1100" stroke="url(#line)" stroke-width="2"/>
+  <text x="600" y="91" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">KAZI SADMAN ZAHIN</text>
+  <text x="600" y="128" text-anchor="middle" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">MACHINE LEARNING ENGINEER · BACKEND DEVELOPER</text>
+  <text x="600" y="157" text-anchor="middle" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">AI · NLP · RAG · API ENGINEERING</text>
+</svg>

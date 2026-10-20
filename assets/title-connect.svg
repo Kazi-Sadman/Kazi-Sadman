@@ -1,0 +1,9 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="56" viewBox="0 0 360 56">
+  <rect x="1" y="1" width="358" height="54" rx="12" fill="#0F172A" stroke="#164E63"/>
+  <rect x="1" y="1" width="5" height="54" rx="2" fill="#38BDF8"/>
+  <circle cx="22" cy="22" r="6" fill="none" stroke="#67E8F9" stroke-width="2"/>
+  <circle cx="37" cy="34" r="6" fill="none" stroke="#67E8F9" stroke-width="2"/>
+  <path d="M27 26L32 30" stroke="#67E8F9" stroke-width="2"/>
+  <text x="54" y="35" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">CONNECT WITH ME</text>
+</svg>
