@@ -14,10 +14,10 @@
 <a href="https://www.linkedin.com/in/sadman-zahin-2777143bb/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
 </a>
-<a href="mailto:kazisadman897@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=kazisadman897@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Contact me by email"
+    src="https://img.shields.io/badge/Email-kazisadman897%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email: kazisadman897@gmail.com"
   />
 </a>
 
@@ -317,14 +317,41 @@ My research interests include:
 
 ---
 
-<!-- GitHub Streak -->
+<!-- GitHub Stats -->
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+<div align="center">
+
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Kazi-Sadman&show_icons=true&theme=radical&hide_border=true"
+    alt="Kazi Sadman Zahin's GitHub Stats"
+  />
+
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazi-Sadman&layout=compact&theme=radical&hide_border=true"
+    alt="Most Used Languages"
+  />
+
+</div>
 
 ---
+
+<!-- GitHub Streak -->
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=Kazi-Sadman&theme=radical&hide_border=true"
+    alt="Kazi Sadman Zahin's GitHub Contribution Streak"
+  />
+
+## </div>
 
 ## 📫 Connect With Me
 
@@ -338,7 +365,7 @@ My research interests include:
   <img src="https://img.shields.io/badge/LinkedIn-Sadman%20Zahin-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:kazisadman897@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=kazisadman897@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-kazisadman897%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email: kazisadman897@gmail.com"
