@@ -265,9 +265,9 @@ Research focus: Ensemble machine learning, text classification, precision, false
 <!-- Current Research Interest -->
 <div align="center">
   <img
-    src="./assets/title-research-interest.svg"
-    width="100%"
+    src="https://raw.githubusercontent.com/Kazi-Sadman/Kazi-Sadman/main/assets/title-research-interest.svg"
     alt="Current Research Interest"
+    width="100%"
   />
 </div>
 
