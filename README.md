@@ -301,19 +301,52 @@ My research interests include:
 
 ---
 
-<!-- GitHub Contribution Activity -->
+<!-- GitHub Statistics -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+    src="https://github-readme-stats-eight-gamma-27.vercel.app/api?username=Kazi-Sadman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12&include_all_commits=true"
+    height="175"
+    alt="Kazi Sadman Zahin's GitHub Statistics"
+  />
+
+&nbsp;&nbsp;
+
+<img
+    src="https://github-readme-stats-eight-gamma-27.vercel.app/api/top-langs/?username=Kazi-Sadman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=94A3B8&border_radius=12&langs_count=8"
+    height="175"
+    alt="Most Used Programming Languages"
+  />
+
+</div>
+
+<br/>
 
 ## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-  <a href="https://github.com/Kazi-Sadman">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Kazi-Sadman&theme=tokyo-night&hide_border=true&area=true"
-      alt="Kazi Sadman Zahin's GitHub Contribution Activity"
-      width="95%"
-    />
-  </a>
+<img
+    width="100%"
+    src="https://github-readme-activity-graph-psi-liard.vercel.app/graph?username=Kazi-Sadman&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FB923C&area=true&area_color=1e3a5f&hide_border=true&border_radius=12&custom_title=Contribution%20Graph"
+    alt="Kazi Sadman Zahin's GitHub Contribution Graph"
+  />
+
+</div>
+
+<br/>
+
+<!-- GitHub Contribution Activity -->
+<div align="center">
+
+<img
+    width="95%"
+    src="./assets/contribution-graph.svg"
+    alt="Kazi Sadman Zahin's GitHub Contribution Graph"
+  />
 
 </div>
 
