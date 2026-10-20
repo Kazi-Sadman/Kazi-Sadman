@@ -1,20 +1,20 @@
-svg xmlns=httpwww.w3.org2000svg width=900 height=80 viewBox=0 0 900 80
-  rect width=900 height=80 rx=10 fill=#0d1117
-  rect width=5 height=80 rx=2 fill=#38BDF8
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <rect width="900" height="80" rx="10" fill="#0d1117"/>
+  <rect width="5" height="80" rx="2" fill="#38BDF8"/>
 
-  g transform=translate(27,23) fill=none stroke=#38BDF8 stroke-width=2.3 stroke-linecap=round stroke-linejoin=round
-    path d=M2 7 L19 0 L36 7 L19 15 Z
-    path d=M8 11 V23 C14 29 24 29 30 23 V11
-    path d=M36 7 V20
-    circle cx=36 cy=23 r=2
-  g
+  <g transform="translate(27,23)" fill="none" stroke="#38BDF8" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 7 L19 0 L36 7 L19 15 Z"/>
+    <path d="M8 11 V23 C14 29 24 29 30 23 V11"/>
+    <path d="M36 7 V20"/>
+    <circle cx="36" cy="23" r="2"/>
+  </g>
 
-  text x=80 y=47
-        font-family=Arial, Helvetica, sans-serif
-        font-size=29 font-weight=700
-        letter-spacing=1
-        fill=#38BDF8CURRENT RESEARCH INTERESTtext
+  <text x="80" y="47"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="29" font-weight="700"
+        letter-spacing="1"
+        fill="#38BDF8">CURRENT RESEARCH INTEREST</text>
 
-  line x1=500 y1=62 x2=870 y2=62 stroke=#164E63 stroke-width=2
-  circle cx=870 cy=62 r=4 fill=#38BDF8
-svg
+  <line x1="500" y1="62" x2="870" y2="62" stroke="#164E63" stroke-width="2"/>
+  <circle cx="870" cy="62" r="4" fill="#38BDF8"/>
+</svg>
