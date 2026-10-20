@@ -332,26 +332,6 @@ My research interests include:
 
 ---
 
-<!-- GitHub Stats -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Kazi-Sadman&show_icons=true&theme=radical&hide_border=true"
-    alt="Kazi Sadman Zahin's GitHub Stats"
-  />
-
-<img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazi-Sadman&layout=compact&theme=radical&hide_border=true"
-    alt="Most Used Languages"
-  />
-
-</div>
-
 ---
 
 <!-- GitHub Streak -->
