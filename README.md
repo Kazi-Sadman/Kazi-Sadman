@@ -99,6 +99,37 @@ I am a Computer Science and Engineering undergraduate at **American Internationa
 <div align="center">
   <img src="./assets/title-projects.svg" width="100%" alt="Featured Projects" />
 </div>
+### 5. TalentFlow AI
+
+**Explainable Recruitment Decision-Support Platform (ATS)**
+
+<p align="center">
+  <a href="https://talentflow-ai-nine.vercel.app/">
+    <img src="assets/projects/talentflow-ai.png" width="100%" alt="TalentFlow AI project demo preview"/>
+  </a>
+</p>
+
+An explainable recruitment decision-support platform featuring job-specific, evidence-backed CV matching designed to assist recruiters while ensuring human-led hiring decisions.
+
+**Key Features**
+
+- **Candidate Portal & Core Workflows (My Contribution):** Candidate profile management, multiple CV handling (upload, replace, delete), job filtering/search, application submission and tracking, and notification interfaces.
+- **Recruiter Portal & ATS Management (Tanvir's Contribution):** Company profile setup, job post management, candidate interaction history, private recruiter notes, applicant status tracking, and recruitment analytics.
+- **Explainable Matching Engine:** Job-specific scoring breakdowns featuring deterministic rule-based algorithms (skills, experience, education, preferred criteria) accompanied by extracted CV snippets for evidence validation.
+- **Batch Processing & Background Tasks:** Asynchronous bulk CV evaluation (up to 50 files per batch) with real-time status polling and file extraction via PyMuPDF and python-docx.
+- **Fair-by-Design Architecture:** Scoring mechanisms engineered to exclude personal identifiers (photos, names) from decision criteria to eliminate algorithmic bias.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+
+**Links:** [🌐 Live Demo](https://talentflow-ai-nine.vercel.app/) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/talentflow-ai)
 
 ### 1. AIUB UniAssist
 
@@ -162,37 +193,6 @@ An interactive application that classifies SMS messages as spam or legitimate me
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-NLP-0F766E?style=flat-square)
 
 **Links:** [🌐 Live Demo](https://smsspamclassifier-2ozcpwt4scvdrtrnvdytug.streamlit.app/) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/sms_spam_classifier)
-
----
-
-### 3. Movie Recommendation System
-
-**Content-Based Movie Recommendation**
-
-<p align="center">
-  <a href="https://movie-recommendation-app-sfxg.onrender.com/">
-    <img src="assets/projects/movie-recommendation.png" width="100%" alt="Movie Recommendation System project demo preview"/>
-  </a>
-</p>
-
-A movie recommendation application that uses textual features and similarity scoring to recommend related movies.
-
-**Key Features**
-
-- TF-IDF feature extraction.
-- Cosine similarity-based recommendation ranking.
-- TMDB API integration.
-- FastAPI backend with a deployed application interface.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
-
-**Links:** [🌐 Live Demo](https://movie-recommendation-app-sfxg.onrender.com/) · [📘 API Documentation](https://movie-recommendation-api-7910.onrender.com/docs) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/Movie-Recommendation-System)
 
 ---
 
