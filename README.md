@@ -99,7 +99,8 @@ I am a Computer Science and Engineering undergraduate at **American Internationa
 <div align="center">
   <img src="./assets/title-projects.svg" width="100%" alt="Featured Projects" />
 </div>
-### 5. TalentFlow AI
+
+### 1.TalentFlow AI
 
 **Explainable Recruitment Decision-Support Platform (ATS)**
 
@@ -131,7 +132,7 @@ An explainable recruitment decision-support platform featuring job-specific, evi
 
 **Links:** [🌐 Live Demo](https://talentflow-ai-nine.vercel.app/) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/talentflow-ai)
 
-### 1. AIUB UniAssist
+### 2. AIUB UniAssist
 
 **Hybrid RAG-Powered University Information and Course Management System**
 
@@ -165,7 +166,7 @@ An AI-powered university information system combining hybrid retrieval with data
 
 ---
 
-### 2. SMS Spam Classifier
+### 3. SMS Spam Classifier
 
 **Machine Learning-Based SMS Classification**
 
