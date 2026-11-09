@@ -130,7 +130,7 @@ An explainable recruitment decision-support platform featuring job-specific, evi
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 
-**Links:** [🌐 Live Demo](https://talentflow-ai-nine.vercel.app/) · [📂 GitHub Repository](https://github.com/Kazi-Sadman/talentflow-ai)
+**Links:** [🌐 Live Demo](https://talentflow-ai-nine.vercel.app/) · [📂 GitHub Repository](https://github.com/tanvir-50198/talentflow-ai)
 
 ### 2. AIUB UniAssist
 
